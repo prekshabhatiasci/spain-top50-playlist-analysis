@@ -1,0 +1,9 @@
+Metric,Value
+Duration-Longevity Correlation,0.0003
+Album Size-Longevity Correlation,-0.1208
+Entry Popularity-Longevity Correlation,0.1369
+Popularity Growth-Longevity Correlation,0.1152
+Entry Popularity-Time to Peak Correlation,0.1097
+Popularity Growth-Rank Improvement Correlation,-0.0505
+Average Explicit Longevity,54.28
+Average Clean Longevity,59.88

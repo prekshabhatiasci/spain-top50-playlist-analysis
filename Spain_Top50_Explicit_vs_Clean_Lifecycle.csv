@@ -1,0 +1,3 @@
+content_type,songs,avg_days,median_days,avg_time_to_peak,avg_stability
+Clean,325,59.88,16.0,9.64,59.25
+Explicit,250,54.28,14.5,9.28,61.08

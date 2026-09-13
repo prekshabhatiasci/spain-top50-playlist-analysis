@@ -1,0 +1,6 @@
+lifecycle_stage,songs,avg_days_on_playlist,median_days_on_playlist,avg_time_to_peak,avg_peak_position,avg_popularity,avg_continuity,avg_rank_slope,percentage_of_songs
+Decline Phase,73,28.03,16.0,0.88,14.73,81.25,90.55,1.91,12.7
+Growth Phase,10,20.0,19.5,14.4,10.1,76.3,79.27,-1.39,1.74
+Mature Phase,142,84.55,52.5,23.31,25.15,80.87,84.82,0.16,24.7
+New Entry,237,3.36,3.0,0.49,30.7,62.7,95.49,2.63,41.22
+Peak Phase,113,159.13,129.0,16.11,4.48,85.53,94.38,0.22,19.65

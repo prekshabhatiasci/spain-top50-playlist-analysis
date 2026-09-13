@@ -1,0 +1,9 @@
+Feature,Importance
+num__entry_position,0.30406977139985886
+num__entry_popularity,0.3027770928036073
+num__duration_min,0.24088233800376807
+num__total_tracks,0.1226502507074332
+cat__is_explicit_False,0.010382868127002995
+cat__is_explicit_True,0.009063606885707022
+cat__album_type_single,0.005692963200244701
+cat__album_type_album,0.004481108872377988

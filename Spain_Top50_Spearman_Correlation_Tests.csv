@@ -1,0 +1,9 @@
+Variable,Spearman_Rho,P_Value,Significance,Effect_Strength,Sample_Size
+duration_min,0.08395822094756461,0.04417561671060753,Significant,Very Weak,575
+total_tracks,-0.25384892149213256,6.604980924189286e-10,Highly Significant,Weak,575
+entry_position,-0.14879371186247156,0.00034342103469301805,Highly Significant,Weak,575
+entry_popularity,0.2543067043725542,6.140232680718263e-10,Highly Significant,Weak,575
+peak_popularity,0.6491595078203681,4.255751125604304e-70,Highly Significant,Strong,575
+time_to_peak_days,0.6266629063595934,4.658092825106048e-64,Highly Significant,Strong,575
+rank_slope,0.009717488777527606,0.8161375577978702,Not Significant,Very Weak,575
+continuity,-0.586869011472547,1.647676740756406e-54,Highly Significant,Strong,575

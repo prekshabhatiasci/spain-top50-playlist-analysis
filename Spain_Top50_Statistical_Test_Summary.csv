@@ -1,0 +1,7 @@
+Test,P_Value,Significance
+Explicit vs Clean - Welch T-Test,0.45954083681027647,Not Significant
+Explicit vs Clean - Mann Whitney,0.2039688982029284,Not Significant
+Lifecycle Stage - ANOVA,2.4271340716680376e-70,Highly Significant
+Lifecycle Stage - Kruskal Wallis,6.994474586677095e-99,Highly Significant
+Explicit vs Lifecycle Stage - Chi Square,0.5478633513633526,Not Significant
+Album Type vs Lifecycle Stage - Chi Square,6.265651719179195e-07,Highly Significant

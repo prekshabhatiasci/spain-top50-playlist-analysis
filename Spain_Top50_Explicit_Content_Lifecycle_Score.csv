@@ -1,0 +1,3 @@
+is_explicit,songs,avg_longevity,avg_stability,avg_continuity,avg_peak_position,content_type,explicit_content_lifecycle_score
+False,325,59.87692307692308,59.254646153846146,91.37775647686821,22.052307692307693,Clean,68.62
+True,250,54.284,61.08236,92.17974636946688,21.456,Explicit,70.01

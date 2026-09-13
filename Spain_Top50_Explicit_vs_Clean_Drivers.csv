@@ -1,0 +1,3 @@
+is_explicit,songs,avg_days,avg_time_to_peak,avg_peak_position,avg_stability,avg_popularity_growth,avg_duration,content_type
+False,325,59.87692307692308,9.64,22.052307692307693,59.254646153846146,14.88,3.148341948717949,Clean
+True,250,54.284,9.284,21.456,61.08236,22.68,3.4331481333333334,Explicit

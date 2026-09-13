@@ -1,0 +1,9 @@
+Variable,Correlation,P_Value,Significance,Effect_Strength,Spearman_Rho,Bonferroni_Significant,Business_Interpretation
+duration_min,0.0003243357812282379,0.9938081788189629,Not Significant,Very Weak,0.08395822094756461,False,No statistically significant relationship detected for duration_min.
+total_tracks,-0.12078935185455479,0.003722689873941805,Very Significant,Weak,-0.25384892149213256,True,total_tracks shows a negative association with playlist longevity.
+entry_position,-0.1245603213767609,0.0027714532795289635,Very Significant,Weak,-0.14879371186247156,True,entry_position shows a negative association with playlist longevity.
+entry_popularity,0.13692159716165767,0.0009960684974102867,Highly Significant,Weak,0.2543067043725542,True,entry_popularity shows a positive association with playlist longevity.
+peak_popularity,0.3662421575115378,1.0811310136769127e-19,Highly Significant,Moderate,0.6491595078203681,True,peak_popularity shows a positive association with playlist longevity.
+time_to_peak_days,0.4879565187850145,9.895138272519433e-36,Highly Significant,Moderate,0.6266629063595934,True,time_to_peak_days shows a positive association with playlist longevity.
+rank_slope,-0.18046764012165084,1.3377177655191772e-05,Highly Significant,Weak,0.009717488777527606,True,rank_slope shows a negative association with playlist longevity.
+continuity,-0.2860197078437882,2.746153179379016e-12,Highly Significant,Weak,-0.586869011472547,True,continuity shows a negative association with playlist longevity.
